@@ -11,12 +11,9 @@ After graduating, I'm planning to continue my studies at university with a **Mas
 ## 🔧 What I Work With
 
 **Languages:**  
-`Python` · `Bash` · `Java` · `Kotlin` · `C++` . and whatever else happens to be useful
+`Python` · `Bash` · `Java` · `Kotlin` · `C++` · and whatever else happens to be useful
 
-**Tools & Environment:**  
-`Linux` · `Git` · `GitHub` · `CLI`
-
-I'm not particularly attached to any single language or stack. If something looks interesting or useful, I'll probably end up trying it.
+I'm not particularly attached to any single language, stack, or environment. If it looks interesting, useful, or just fun to mess around with, I'll probably end up trying it.
 
 ## 🔐 Cybersecurity
 
