@@ -73,7 +73,7 @@ Some projects will be polished, others will simply be things I've built to learn
 
 ### A bit of everything, mostly computers.
 
-If you're into **Linux, cybersecurity, programming, or generally nerdy tech stuff**, feel free to look around.
+If you're into **Linux, cybersecurity, programming, or generally nerdy tech stuff**, feel free to have a look around and reach out!
 
 <div align="center">
 
