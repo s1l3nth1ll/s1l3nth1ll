@@ -2,7 +2,7 @@
 
 🎓 3rd-year Information Technology BBA student · 🐧 Linux enthusiast · 🔐 Cybersecurity & tech
 
-I'm currently in my third year studying **Information Technology as a Bachelor of Business Administration**.
+I'm 21, soon turning 22, and currently in my third year studying **Information Technology as a Bachelor of Business Administration**.
 
 I'm especially interested in **cybersecurity, penetration testing, Linux, and technology in general**. I enjoy learning by experimenting, building small projects, and figuring out how things work rather than just using them.
 
@@ -12,6 +12,9 @@ After graduating, I'm planning to continue my studies at university with a **Mas
 
 **Languages:**  
 `Python` · `Bash` · `Java` · `Kotlin` · `C++` · and whatever else happens to be useful
+
+**Tools & Environment:**  
+`Linux` · `Git` · `GitHub` · `Docker` · `VS Code` · `CLI` · `SSH`
 
 I'm not particularly attached to any single language, stack, or environment. If it looks interesting, useful, or just fun to mess around with, I'll probably end up trying it.
 
