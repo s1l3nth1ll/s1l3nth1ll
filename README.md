@@ -11,7 +11,7 @@ After graduating, I'm planning to continue my studies at university with a **Mas
 ## 🔧 What I Work With
 
 **Languages:**  
-`Python` · `Bash` · `Java` · `Kotlin` · and whatever else happens to be useful
+`Python` · `Bash` · `Java` · `Kotlin` · `C++` . and whatever else happens to be useful
 
 **Tools & Environment:**  
 `Linux` · `Git` · `GitHub` · `CLI`
