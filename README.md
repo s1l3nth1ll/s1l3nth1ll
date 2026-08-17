@@ -60,7 +60,9 @@ A Python project for analyzing security-related logs and making potentially inte
 
 A Kotlin project exploring Android and wearable application development.
 
-You'll find a mixture of university projects, experiments, small tools, and things I've built simply because I wanted to try them.
+There isn't a huge amount here yet, but I'm still building up my portfolio. I'll be adding more projects, experiments, and university work as I go forward.
+
+Some projects will be polished, others will simply be things I've built to learn something new — either way, this profile will hopefully grow along with my skills.
 
 ## 📚 Currently
 
